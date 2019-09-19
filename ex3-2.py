@@ -13,4 +13,4 @@ def do_four(f, arg):
     do_twice(f, arg)
     do_twice(f, arg)
 
-do_four(print_twice, 'spam')
+do_four(print_twice, 'spaaam')
